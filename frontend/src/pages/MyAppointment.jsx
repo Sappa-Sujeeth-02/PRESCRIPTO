@@ -80,7 +80,7 @@ const MyAppointment = () => {
   }
 
   const appointmentRazorpay = async (appointmentId) => {
-    console.log("button clicked")
+    toast.error("Payment Disabled for Sameple Page")
     try {
 
       const { data } = await axios.post(
