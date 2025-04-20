@@ -17,7 +17,7 @@ const Contact = () => {
 Sriharipuram 000, Visakhapatnam, India
 
 </p>
-   <p className='text-gray-500'>Tel: +91-9519269289 <br/>
+   <p className='text-gray-500'>Tel: +91-8978683569<br/>
   Email: healthsure@gmail.com</p>
   <p className='font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
   <p className='text-gray-500'>Learn more about our teams and job openings.</p>
